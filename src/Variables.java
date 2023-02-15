@@ -12,4 +12,5 @@ public class Variables {
         System.out.println(employeeName);
     }
 }
-//las variables estaticas, "static" se las llama tmb varialbes de clase, que pueden se accedidas a partir del nombre de una clase, su alcance es mucho mas global, se verá ams adelante.
+//las variables estaticas, "static" se las llama tmb varialbes de clase, que pueden se accedidas a
+// partir del nombre de una clase, su alcance es mucho mas global, se verá mas adelante.

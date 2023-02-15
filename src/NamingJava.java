@@ -9,8 +9,8 @@ public class NamingJava {
         String $country = "Spain";
         String _backgroundColor = "green";
         //Otra convencion:
-        //lass letras posteriores a la que inicia la variable puede ser letra, numero o $ y _
-        // las constantes se escriben en MAYUSCULAS y contienen _.
+        //las letras posteriores a la que inicia la variable puede ser letra, numero o $ y _
+        // las constantes se escriben en MAYUSCULAS y contienen _ para separar palabras.
         int POSITION = -5;
         int MAX_WIDTH = 9999;
 
